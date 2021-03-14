@@ -1,10 +1,10 @@
-# TheLeagueAI_main
+## TheLeagueAI_main
 
-## What it is
+### What it is
 TheLeague.AI is a nonprofit organization that aims to inspire young students to become the next leaders in the field of Machine Learning and Artificial Intelligence. 
 This repository includes lessons to get students started with the basics of python and progress toward machine learning. This main repository will be used to maintain all the original lessons and folders to be used for all the schools / students that join the program.
 
-## What's in the Repository  
+### What's in the Repository  
 - Lesson  1 - Basics of Python Programming  
 - Lesson  2 - Basics of Python Programming 2  
 - Lesson  3 - Pandas  
@@ -28,7 +28,7 @@ This repository includes lessons to get students started with the basics of pyth
 - Lesson 21 - Complete ML/DS workflow 2  
 - Lesson 22 - Preparation for the Competition
 
-## How Can You Contribute 
+### How Can You Contribute 
 You can contribute new ideas to improve our lessons and even new lessons as the program gets expanded. 
 
 The goal is to have a four year program that encompasses the whole data workflow:
