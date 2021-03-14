@@ -24,8 +24,8 @@ This repository includes lessons to get students started with the basics of pyth
 - Lesson 17 - Accuracy Metrics 2  
 - Lesson 18 - Tuning Your Model 1  
 - Lesson 19 - Tuning Your Model 2  
-- Lesson 20 - Complete ML/DS workflow 1  
-- Lesson 21 - Complete ML/DS workflow 2  
+- Lesson 20 - Complete ML/DS Workflow 1  
+- Lesson 21 - Complete ML/DS Workflow 2  
 - Lesson 22 - Preparation for the Competition
 
 ### How Can You Contribute 
