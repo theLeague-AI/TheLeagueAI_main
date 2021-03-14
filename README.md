@@ -29,3 +29,12 @@ This repository includes lessons to get students started with the basics of pyth
 - Lesson 22 - Preparation for the Competition
 
 ## How Can You Contribute 
+You can contribute new ideas to improve our lessons and even new lessons as the program gets expanded. 
+
+The goal is to have a four year program that encompasses the whole data workflow:
+-  Data Analysis 
+-  Data Engineering
+-  Machine Learning
+-  Data Science
+
+
