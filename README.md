@@ -1,7 +1,9 @@
 ## TheLeagueAI_main
 
-### What it is
+### Who are we?
 TheLeague.AI is a nonprofit organization that aims to inspire young students to become the next leaders in the field of Machine Learning and Artificial Intelligence. 
+
+### What is this Repository?
 This repository includes lessons to get students started with the basics of python and progress toward machine learning. This main repository will be used to maintain all the original lessons and folders to be used for all the schools / students that join the program.
 
 ### What's in the Repository  
@@ -36,5 +38,3 @@ The goal is to have a four year program that encompasses the whole data workflow
 -  Data Engineering
 -  Machine Learning
 -  Data Science
-
-
